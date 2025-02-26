@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cursoReact/static/css/main.f855e6bc.css",
+    "main.js": "/cursoReact/static/js/main.1947d25e.js",
+    "static/js/453.82cfb658.chunk.js": "/cursoReact/static/js/453.82cfb658.chunk.js",
+    "static/media/logo.svg": "/cursoReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cursoReact/index.html",
+    "main.f855e6bc.css.map": "/cursoReact/static/css/main.f855e6bc.css.map",
+    "main.1947d25e.js.map": "/cursoReact/static/js/main.1947d25e.js.map",
+    "453.82cfb658.chunk.js.map": "/cursoReact/static/js/453.82cfb658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1947d25e.js"
+  ]
+}
