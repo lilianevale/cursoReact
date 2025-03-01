@@ -1,23 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+import RecipeTitle from './RecipeTitle';
+import ReactDOM from 'react-dom/client';
+import { Route, BrowserRouter, Routes} from "react-router-dom";
+import Rotas from './Rotas';
+import BasicExample from './BasicExample';
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
+import NavDropdown from 'react-bootstrap/NavDropdown';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <BasicExample/>
+
+<Rotas/>
+
+            
     </div>
   );
 }
